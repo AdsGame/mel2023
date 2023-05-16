@@ -135,10 +135,10 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "10",
-        "text_size": "25",
+        "text_size": "30",
         "isLink": "false","link_title": "Download ZIP","setLink": "https://top-mods.com/mods-downloaded/melon-playground/packs",
-        "image_link": "https://raw.githubusercontent.com/AdsGame/AdsGame/main/tar.png",
-        "text": "Download Mod",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/img1.png",
+        "text": "How To Install The Mods",
         "isNative": "false"
       },
       {
@@ -147,9 +147,9 @@
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/earth_wubbox.zip",
-        "image_link": "https://melmod.com/wp-content/uploads/2023/01/EARTH-WUBBOX.webp",
-        "text": "EARTH WUBBOX",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/earth_wubbox.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/img2.png",
+        "text": "",
         "isNative": "false"
       },
       {
@@ -158,9 +158,9 @@
         "gravity": "left",
         "left": "5",
         "text_size": "25",
-        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/Undertale_the_fallen_child.zip",
-        "image_link": "https://melmod.com/wp-content/uploads/2023/01/Undertale.webp",
-        "text": "Undertale",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/Undertale_the_fallen_child.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/img3.png",
+        "text": "",
         "isNative": "true"
       },
       {
@@ -169,9 +169,9 @@
         "gravity": "left",
         "left": "10",
         "text_size": "20",
-        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/MTF.zip",
-        "image_link": "https://melmod.com/wp-content/uploads/2023/01/MTF.webp",
-        "text": "MTF",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/MTF.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/img4.png",
+        "text": "",
         "isNative": "false"
        },
        {
@@ -180,9 +180,53 @@
         "gravity": "left",
         "left": "10",
         "text_size": "20",
-        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/VHS_Sans_mod.zip",
-        "image_link": "https://melmod.com/wp-content/uploads/2023/01/VHS-Sans.webp",
-        "text": "VHS Sans",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/VHS_Sans_mod.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/img5.png",
+        "text": "",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/VHS_Sans_mod.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/img6.png",
+        "text": "",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/VHS_Sans_mod.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/img7.png",
+        "text": "",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/VHS_Sans_mod.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/img8.png",
+        "text": "",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/VHS_Sans_mod.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/img9.png",
+        "text": "",
         "isNative": "false"
       }
     ],
